@@ -2,6 +2,7 @@
 
 Current state of application. More features are implemented on the base project, but I am currently working on improving them.
 
+The website is being run in a Docker instance with a reverse proxy to redirect URL requests to the correct port on the server.
 
 https://github.com/user-attachments/assets/c85150eb-fcee-4b4c-9c86-04677993d1b9
 
