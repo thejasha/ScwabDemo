@@ -1,6 +1,6 @@
 # ScwabDemo
 
-Current state of application. More features are implemented on the base project, but I am currently working on improving them.
+Current state of the project.
 
 The website is being run in a Docker instance with a reverse proxy to redirect URL requests to the correct port on the server.
 
@@ -13,3 +13,6 @@ https://github.com/user-attachments/assets/c85150eb-fcee-4b4c-9c86-04677993d1b9
 * Working on caching data that is repeatedly fetched, but doesn't change, to stop the bottleneck from the Schwab API (Example is fetching the FED fund rate)
 * Garch model to forecast future volatility - will be implementing an ML analysis to see if I can optimize some parameters.
 * Correlation Matrix calculator on positions.
+
+
+Codebase is in private git.
