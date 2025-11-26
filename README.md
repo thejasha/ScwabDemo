@@ -13,6 +13,7 @@ https://github.com/user-attachments/assets/c85150eb-fcee-4b4c-9c86-04677993d1b9
 * Working on caching data that is repeatedly fetched, but doesn't change, to stop the bottleneck from the Schwab API (Example is fetching the FED fund rate)
 * Garch model to forecast future volatility - will be implementing an ML analysis to see if I can optimize some parameters.
 * Correlation Matrix calculator on positions.
+* Forward Volaility Calculations
 
 
 Codebase is in private git.
