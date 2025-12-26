@@ -4,9 +4,6 @@ Current state of the project.
 
 The website is being run in a Docker instance of a Gunicorn Server with a reverse proxy to redirect URL requests to the correct port on the server.
 
-https://github.com/user-attachments/assets/c85150eb-fcee-4b4c-9c86-04677993d1b9
-
-
 https://github.com/user-attachments/assets/800cf169-db8e-40e1-aef7-ed89efbd600a
 
 
