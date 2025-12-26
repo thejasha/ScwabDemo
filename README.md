@@ -6,6 +6,10 @@ The website is being run in a Docker instance of a Gunicorn Server with a revers
 
 https://github.com/user-attachments/assets/c85150eb-fcee-4b4c-9c86-04677993d1b9
 
+
+https://github.com/user-attachments/assets/800cf169-db8e-40e1-aef7-ed89efbd600a
+
+
 ### List of features not included in demo:
 * Webscrapper to collect fundamental data on tickers and display graphs of data (Rev, Net Income, etc).
 * Wrapper to self-hosted ollama model to summarize long PDFs (such as a 10-k).
