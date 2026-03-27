@@ -6,7 +6,7 @@ The website is being run in a Docker instance of a Gunicorn Server with a revers
 
 It can be accessed by any device that is on the network. For remote access, must be connected to wireguard VPN.
 
-https://github.com/user-attachments/assets/304cefd1-bc48-4338-af8c-43f36391a648
+
 
 
 ### List of some being built:
