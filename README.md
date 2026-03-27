@@ -8,6 +8,10 @@ It can be accessed by any device that is on the network. For remote access, must
 
 
 
+https://github.com/user-attachments/assets/6a94e575-511d-4f22-b6a6-20e7ec82f7b4
+
+
+
 
 ### List of some being built:
 * Wrapper to self-hosted ollama model to summarize long PDFs (such as a 10-k).
