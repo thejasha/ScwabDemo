@@ -6,16 +6,13 @@ The website is being run in a Docker instance of a Gunicorn Server with a revers
 
 It can be accessed by any device that is on the network. For remote access, must be connected to wireguard VPN.
 
-https://github.com/user-attachments/assets/800cf169-db8e-40e1-aef7-ed89efbd600a
+https://github.com/user-attachments/assets/304cefd1-bc48-4338-af8c-43f36391a648
 
 
-### List of features not included in demo:
-* Webscrapper to collect fundamental data on tickers and display graphs of data (Rev, Net Income, etc). (UPDATE: Macrotrends has a pay wall now so this doesn't work)
+### List of some being built:
 * Wrapper to self-hosted ollama model to summarize long PDFs (such as a 10-k).
-* Caching data to stop bottleneck from the Schwab API (Example is fetching the FED fund rate).
-* LSTM Nerual Networking being feed by Garch model ouputs to forecast future volatility. 
-* Correlation and beta calculation on positions.
-* Forward Volatility  Calculation.
+* LSTM Nerual Networking being feed by Garch model ouputs to forecast future volatility.
+* Heston model calibrated to current option market data to comput VaR.
 
 
 Codebase is in private git.
